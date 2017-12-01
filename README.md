@@ -8,7 +8,7 @@ Tugas dikumpulkan sesuai dengan waktu di Edmodo
  3. Clone repository hasil fork ke komputer kalian
  4. Tambahkan file text dengan nama file nama depan nama kalian (Misal: hasan.txt) dengan isi file nama lengkap kalian
  5. Commit dan lakukan push pada changes
- 6. Silakan lakukan pull request ke Repository Utama (https://github.com/DNCCMobile/Task1)
+ 6. Silakan lakukan create pull request ke Repository Utama (https://github.com/DNCCMobile/Task1)
 
 Silakan kalian dapat menggunakan software alternatif seperti SourceTree atau GitKraken
 
