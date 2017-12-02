@@ -1,6 +1,8 @@
 Tugas 1 - DNCC.Mobile Academy
 ===================
 
+**Penilaian akan dilakukan jika ada file dan nama kalian di Repository utama, dan telah submit Assignment 1.1 di Edmodo**
+
 Tugas dikumpulkan sesuai dengan waktu di Edmodo
 
  1. Silakan clone repository ini, https://github.com/DNCCMobile/Task1
@@ -11,6 +13,8 @@ Tugas dikumpulkan sesuai dengan waktu di Edmodo
  6. Silakan lakukan create pull request ke Repository Utama (https://github.com/DNCCMobile/Task1)
 
 Silakan kalian dapat menggunakan software alternatif seperti SourceTree atau GitKraken
+
+
 
 Referensi:
 
